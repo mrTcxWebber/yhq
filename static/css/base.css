@@ -1,0 +1,5 @@
+// 菜單欄
+	.menu-box {padding: 30rpx 0px;justify-content: space-around;}
+	.menu-box .menu-item {text-align: center;}
+	.menu-box .menu-item image {width: 94rpx; height: 94rpx;}
+	.menu-box .menu-item view {margin-top: 14rpx;}
